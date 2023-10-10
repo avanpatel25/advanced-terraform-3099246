@@ -1,8 +1,8 @@
 ### PROVIDER
 provider "google" {
-  project = "advancedterraform" #replace this with your project-id
+  project = "gcp-learning-400907" #replace this with your project-id
   region  = "us-central1"
-  zone    = "us-central1-a"
+  zone    = "us-central1-b"
 }
 
 ### NETWORK
